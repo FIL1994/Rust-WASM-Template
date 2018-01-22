@@ -1,4 +1,4 @@
-#Rust-WASM-Template
+# Rust-WASM-Template
 
 NOTE: this is for windows only
 
