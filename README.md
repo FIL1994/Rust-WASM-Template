@@ -8,6 +8,7 @@ NOTE: this is for windows only
 ```
 rustup toolchain install nightly
 rustup target add wasm32-unknown-unknown --toolchain nightly
+rustup default nightly
 ```
 
 functions accessible to WebAssmebly need to be marked with #[no_mangle]
